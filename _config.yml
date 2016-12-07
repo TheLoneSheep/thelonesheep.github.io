@@ -9,7 +9,7 @@
 title: TheLoneSheep's site
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is my page on GitHub. Thanks to CC.
+  This is my page on GitHub. Thanks to CC. This a change to be reset.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
